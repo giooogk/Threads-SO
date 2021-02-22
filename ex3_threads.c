@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-//hyeghyegyegyegy
+
 #define BUFFER_SIZE 10
 #define BUFFER_SAFRA 3
 
