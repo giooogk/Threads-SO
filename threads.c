@@ -9,7 +9,7 @@ void *hello_Word(void *tid){
     pthread_exit(NULL);
 }
 
-int main(int argc, char *argc[]){
+int main(int argc, char *argv[]){
     
     pthread_t thread;
     int status;
